@@ -1,7 +1,9 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&color=00C2FF&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hola!+%F0%9F%91%8B;I%27m+Ahmed+Junayed!;Vibe+Coderr+%7C+ADHD;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&color=00C2FF&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hola!+%F0%9F%91%8B;I%27m+Ahmed+Junayed!;Code+Hard+%7C+Vibe+Harder+🫨;" />
 </h1>
-<h3 align="center">An aspiring software developer based in dhk 🇧🇩</h3>
+<h3 align="center">👨🏻‍💻An aspiring software developer based in <bold>dhk/🇧🇩</bold></h3>
+---
+<br/>
 
 
 <img width="1834" alt="my banner" src="https://i.imgur.com/8MupZHY.png" />
