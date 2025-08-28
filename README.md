@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&color=00C2FF&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hola!+%F0%9F%91%8B;I%27m+Ahmed+Junayed!;Java+Enthusiast+%7C+Learner;" />
 </h1>
-<h3 align="center">An aspiring software developer based in **dhk** - 🇧🇩</h3>
+<h3 align="center">An aspiring software developer based in dhk 🇧🇩</h3>
 
 
 <img width="1834" alt="my banner" src="https://i.imgur.com/8MupZHY.png" />
@@ -10,11 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junayeddd&label=Profile%20views&color=0e75b6&style=flat" alt="junayeddd" /> </p>
 
-- 🎓 Computer Science student passionate about software development.
+- 🎓 I am a CS sophomore at **North South University**.
 
-- 🚀 Exploring **OOP, Algorithms, and full-stack development**.
+- 🚀 I am currently exploring **OOP, Algorithms, and full-stack development**.
 
-- 🌱 I’m currently learning **networking and multithreaded projects in C++!**
+- 🌱 I’m currently learning **networking and multithreaded projects in java!**
 
 - 📫 Reach me at **junayed011@gmail.com**
 
@@ -24,7 +24,7 @@
 <h3 align="center">Get connected with me!📲</h3>
 
 <div align="center"> 
-  <a href="mailto:mahirazabin@gmail.com">
+  <a href="mailto:junayed011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ahmedjunayedrahman/" target="_blank">
