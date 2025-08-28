@@ -14,10 +14,18 @@
 --- 
 
 <h3 align="center">📊 GitHub Stats</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junayeddd&show_icons=true&theme=radical)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayeddd&layout=compact&theme=radical)
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=junayeddd&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayeddd&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
+
+</td></tr></table> 
+
+
 
 
 
