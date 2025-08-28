@@ -2,7 +2,9 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&color=00C2FF&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hola!+%F0%9F%91%8B;I%27m+Ahmed+Junayed!;Code+Hard+%7C+Vibe+Harder+🫨;" />
 </h1>
 <h3 align="center">👨🏻‍💻An aspiring software developer based in <bold>dhk/🇧🇩</bold></h3>
+
 ---
+
 <br/>
 
 
@@ -24,7 +26,6 @@
 <br/>
 
 <h3 align="center">Get connected with me!📲</h3>
-
 <div align="center"> 
   <a href="mailto:junayed011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -40,7 +41,6 @@
 <br/>
 
 <h3 align="center">⚒️ Tech Stacks ⚒️</h3>
-<br/>
 <div align="center"> <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p></div>
 <br/>
-
 
 <h3 align="center">Recents Projects👇🏻</h3>
 
