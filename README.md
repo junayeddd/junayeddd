@@ -8,13 +8,13 @@
 <br/>
 
 
-<img width="1834" alt="my banner" src="https://i.imgur.com/8MupZHY.png" />
+<img width="1834" alt="my banner" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9leDA5a2dpaWhkODg1a3kwNXF5dDFta2dhMWpqNWlvbHY4dWptNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" />
 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junayeddd&label=Profile%20views&color=0e75b6&style=flat" alt="junayeddd" /> </p>
 
-- 🎓 I am a CS sophomore at **North South University**.
+- 🎓 I am a sophomore at **North South University** majoring in **CompSci**.
 
 - 🚀 I am currently exploring **OOP, Algorithms, and full-stack development**.
 
